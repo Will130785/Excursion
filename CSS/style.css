@@ -1,0 +1,33 @@
+#main-heading {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: Center;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+.download {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.sub-heading {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+#about {
+    font-size: 21px;
+    color: gray;
+}
+
+#copyright {
+    text-align: right;
+    color: gray;
+}
